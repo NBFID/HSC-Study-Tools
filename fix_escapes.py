@@ -1,6 +1,6 @@
 import re
 
-path = r"C:\Users\justu\.claude\Claude Code\english\index.html"
+path = r"english\index.html"
 
 with open(path, 'r', encoding='utf-8') as f:
     text = f.read()
